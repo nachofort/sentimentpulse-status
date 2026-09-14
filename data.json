@@ -1,7 +1,7 @@
 {
   "actualizado": "14 sep 2026",
   "tiles": [
-    { "k": "Días hasta la entrega", "v": "16", "n": "30 sep · entrega final (G3)" },
+      { "k": "Días hasta la entrega", "v": "3", "n": "17 sep · entrega final (G3)" },
     { "k": "Reseñas etiquetadas", "v": "300", "n": "objetivo revisado a 300 (V-5.1) — corpus congelado" },
     { "k": "Runs en el benchmark", "v": "7", "n": "Ruta A (5 modelos) + Ruta B (2, distant supervision) en BENCHMARK.md" },
     { "k": "Votaciones urgentes", "v": "0", "n": "V-7.1 cerrada 21-ago · V-5.1 resuelta" }
@@ -20,7 +20,7 @@
         "Dashboard SaaS con alertas por umbral ABSA — [PENDIENTE-VERIFICACIÓN]",
         "Derechos de datos documentados (T&C) — [PENDIENTE-VERIFICACIÓN, dueña Noelia]"
       ] },
-    { "id": "G3 · Entrega", "fecha": "30 sep 2026", "estado": "warning",
+    { "id": "G3 · Entrega", "fecha": "17 sep 2026", "estado": "warning",
       "items": [
         "Memoria ≤ 20 págs. verificadas — [PENDIENTE-VERIFICACIÓN]",
         "Endpoint FastAPI demostrable (2 implementaciones en el repo; integración/PR pendiente de revisión)",
